@@ -5,6 +5,10 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 @AutoConfigureMockMvc
-class MicroservicesApplicationTests {
+public class PagamentoTeste{
+	
+	
+	
+	
 
 }
